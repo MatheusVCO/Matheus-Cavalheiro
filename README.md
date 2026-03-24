@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Matheus-Cavalheiro/Matheus-Cavalheiro/actions/workflows/main.yml">
-    <img src="https://github.com/Matheus-Cavalheiro/Matheus-Cavalheiro/actions/workflows/main.yml/badge.svg" alt="Snake Animation Workflow Status" />
+  <a href="https://github.com/MatheusVCO/Matheus-Cavalheiro/actions/workflows/main.yml">
+    <img src="https://github.com/MatheusVCO/Matheus-Cavalheiro/actions/workflows/main.yml/badge.svg" alt="Snake Animation Workflow Status" />
   </a>
 </p>
 
@@ -85,9 +85,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Cavalheiro/Matheus-Cavalheiro/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Cavalheiro/Matheus-Cavalheiro/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheus-Cavalheiro/Matheus-Cavalheiro/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusVCO/Matheus-Cavalheiro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusVCO/Matheus-Cavalheiro/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusVCO/Matheus-Cavalheiro/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
