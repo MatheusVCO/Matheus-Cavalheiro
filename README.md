@@ -1,24 +1,101 @@
-## Olá! Eu sou o Matheus Cavalheiro👋
+<h1 align="center">Matheus Cavalheiro</h1>
+<h3 align="center">DevSecOps | Infraestrutura Segura | Automação de Segurança</h3>
 
-- 🌱 No momento estou aprendendo sobre Engenharia de dados.
-- 👯 Estou procurando colaborar em projetos de dados. 
-- 🤔 Estou procurando ajuda em POO.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Construindo+pipelines+seguras+de+ponta+a+ponta;Infra+como+c%C3%B3digo+com+governan%C3%A7a+e+compliance;Cloud+Security%2C+Observabilidade+e+Resili%C3%AAncia" alt="Typing SVG" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mat-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Mat-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Mat-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-cavalheiro20" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-DevSecOps-0f172a?style=for-the-badge&logo=shield&logoColor=white" alt="Focus DevSecOps"/>
+  <img src="https://img.shields.io/badge/Infra-Cloud%20%7C%20Containers%20%7C%20IaC-1f2937?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Infra"/>
+</p>
 
-##
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-cavalheiro20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://github.com/Matheus-Cavalheiro/Matheus-Cavalheiro/actions/workflows/main.yml">
+    <img src="https://github.com/Matheus-Cavalheiro/Matheus-Cavalheiro/actions/workflows/main.yml/badge.svg" alt="Snake Animation Workflow Status" />
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrEncryptorX/MrEncryptorX/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrEncryptorX/MrEncryptorX/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrEncryptorX/MrEncryptorX/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+## Sobre mim
+
+- Profissional em evolução para atuar como **DevSecOps Engineer**, unindo **infraestrutura, automação e segurança**.
+- Foco em criar ambientes com **entrega contínua segura**, observabilidade e padrões de hardening.
+- Interesse em **Cloud Security**, **IAM**, **Security Scanning** e **compliance no ciclo de desenvolvimento**.
+- Objetivo: transformar segurança em prática diária do pipeline, e não etapa final.
+
+## Stack DevSecOps
+
+### Infraestrutura & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### Containers & Orquestração
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### CI/CD & Segurança
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white)
+
+### Linguagens & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+## Princípios que eu sigo
+
+- **Shift Left Security**: segurança desde o primeiro commit.
+- **Everything as Code**: infraestrutura, políticas e automações versionadas.
+- **Least Privilege**: acesso mínimo necessário, sempre.
+- **Continuous Compliance**: validações automáticas e rastreáveis.
+- **Observabilidade com contexto de segurança**: métricas, logs e alertas acionáveis.
+
+## Roadmap atual
+
+- [ ] Fortalecer projetos de referência com Terraform + hardening de cloud.
+- [ ] Publicar pipeline CI/CD com SAST, SCA e Container Scanning.
+- [ ] Evoluir padrões de Kubernetes Security (RBAC, NetworkPolicy, Secrets).
+- [ ] Consolidar playbooks de resposta a incidentes e automação operacional.
+
+---
+
+## Métricas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Cavalheiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Cavalheiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheus-Cavalheiro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Cavalheiro/Matheus-Cavalheiro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Cavalheiro/Matheus-Cavalheiro/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheus-Cavalheiro/Matheus-Cavalheiro/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+## Vamos conectar
+
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/matheus-cavalheiro20" target="_blank">matheus-cavalheiro20</a>
+- 🔐 Foco de colaboração: projetos de **Infraestrutura, Cloud Security e DevSecOps**.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matheus-Cavalheiro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
